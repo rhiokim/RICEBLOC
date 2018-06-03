@@ -1,5 +1,5 @@
-# .seed-block
+# RICEBLOC
 
-This template for technical white paper of * blockchain.
+This documentation explain about RICEBLOC
 
 ## UNLICENSED

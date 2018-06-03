@@ -8,6 +8,8 @@
 
 ### Status of This Document
 
+This section describes the status of this document at the time of its publication.
+
 ## TABLE OF CONTENTS
 
 [초록](#a)
