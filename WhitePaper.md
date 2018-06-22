@@ -32,18 +32,25 @@ This section describes the status of this document at the time of its publicatio
 
 * 참여주체
   - 가치 생산자
+    - RICE 블럭의 실물 가치인 RICE 를 생산하는 주체자
   - 가치 소비자
+    - 가치 생산자가 실물 가치를 생산할 수 있도록 RICE 블럭에 통화 가치 혹은 그와 동등한
   - 가치 평가자
+    - 실물 가치의 생산 정보, 실물 가치의 직접 소비를 통한 부가 정보를 토대로 신뢰성, 투명성을 증명하고 실물 가치 유지, 성장
   - RICEBLOC 팀
+    - 블럭 플랫폼을 유지, 확장을 위한 기술적인 기여자
 * 아키텍쳐
 * 탈중앙화
 
 ## 토큰 경제 RICEBLOCK Token Economy
 
 * 토큰 (RICE)
+  - 토큰의 정의
+  - 토큰의 사용 범위
+  - 토큰의 교환
 * 리워드
 
-## 가치검증
+## 가치검증 및 평가
 
 * 가치생산
 * 가치소비
